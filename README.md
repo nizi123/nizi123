@@ -27,11 +27,12 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Styled components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>
 
 <br/>
-
+<hr/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iji_shin)](https://solved.ac/iji_shin/)
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nizi123&show_icons=true&theme=material-palenight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizi123&layout=compact&theme=material-palenight)
 
 
 
