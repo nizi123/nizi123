@@ -5,8 +5,9 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/hee981226@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/hee981226@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-🌱 Web Frontend developer</br>
-🪫 강철 행복회로 소유자
+🌱 Studying UE5</br>
+🌼 Web Frontend developer</br>
+💣 강철 행복회로 소유자
 
 <br/>
 
@@ -25,6 +26,9 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Styled components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>
+<br/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Unreal Engine-0E1128style=flat-square&logo=unrealengine&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599Cstyle=flat-square&logo=cplusplus&logoColor=white"/></a>
 
 <br/>
 <hr/>
