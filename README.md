@@ -27,8 +27,8 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Styled components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>
 <br/>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Unreal Engine-0E1128style=flat-square&logo=unrealengine&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599Cstyle=flat-square&logo=cplusplus&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Unreal Engine-0E112?style=flat-square&logo=unrealengine&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 
 <br/>
 <hr/>
